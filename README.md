@@ -20,4 +20,4 @@ Bildquelle:
 Es wurden 3 Modelle verwendet mit Ergebnissen auf den Testdatensatz:
 - VGG16: 92.81% + Hoher Recall auf allen Klassen (0.93, 0.82, 0.75, 0.84)
 - ResNet50: 92.14% + Hoher Recall auf allen Klassen (0.92, 0.77, 0.76, 0.84)
-- Fully Convolutional Neural Network: 88.94% (0.86, 0.62, 0.64, 0.81)
+- Fully Convolutional Neural Network: 88.94% + Recall (0.86, 0.62, 0.64, 0.81)
